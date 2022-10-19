@@ -64,6 +64,7 @@ custom Fields. This page has the same features and functionality as the [Item Pa
 Notice the following Buttons in the Header:
 
 - <span mi btn >check</span> – Saves any edits made to the file.
+- <span mi btn sec>sync_problem</span> – Scans the file system to check new files.
 - <span mi btn sec>tune</span> – Please see [Edit an Image](#edit-an-image) to learn more.
 - <span mi btn sec>save_alt</span> – Downloads the file to your current device.
 - <span mi btn sec>drive_file_move</span> – Moves selected File(s) to another Folder.
