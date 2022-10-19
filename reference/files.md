@@ -713,3 +713,21 @@ mutation {
 	}
 }
 ```
+
+## Synchronize file system with the database
+
+Check the files inside disk folders, detect missing files and adds the new files to the database.
+
+### Query Parameters
+
+This endpoint doesn't need any query parameters.
+
+### Returns
+
+An empty object
+
+### REST API
+
+```txt
+GET /files/scan
+```
